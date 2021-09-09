@@ -6,6 +6,31 @@
 
 Our team, Xorbians, hopes to achieve a scalable, deployable, and maintainable Face Detection and Validation product for HackRx. Keeping in mind the above three factors, we surveyed and enlisted state-of-the-art modules supported and backed by Open Source and well-maintained products such as Tensorflow, FastAPI, and OpenCV.
 
+# Tackling our Problem Statements:
+
+![Order of Detection](/github_ready/order_of_detection.PNG)
+
+![Detection](/github_ready/detection.PNG)
+
+![Obstruction Blur Number](/github_ready/obstruction_blur_number.PNG)
+
+![Cartoon](/github_ready/cartoonification.PNG)
+
+![Professional](/github_ready/professional.PNG)
+
+![Live Face](/github_ready/live_face.PNG)
+
+![thumbnail](/github_ready/small_regions.PNG)
+
+# Datasets Used:
+1)Face Obstruction Detection - https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset<br />
+2)Face Spoofing Detection - https://github.com/fernandovinicius/densenet-face-anti-spoofing/tree/c3dfd9c916d3c9b55220252571b3392004c5710b<br />
+
+# Tech Stacks Used:
+1)FastApi<br />
+2)SteamLit<br />
+3)MongoDB<br />
+
 # Scalability, Deployability, and Maintainability
 
 ## Scalability and Deployment:
@@ -23,28 +48,3 @@ OpenCV, another technology integrated into the framework, is an image processing
 Finally, our implementation of FastAPI, one of the fastest, best, and popular API frameworks, would also allow easy access and integration in the future.
 
 All three of these base frameworks are open-sourced, backed by a large supporting community, and popular! 
-
-# Datasets Used:
-1)Face Obstruction Detection - https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset<br />
-2)Face Spoofing Detection - https://github.com/fernandovinicius/densenet-face-anti-spoofing/tree/c3dfd9c916d3c9b55220252571b3392004c5710b<br />
-
-# Tech Stacks Used:
-1)FastApi<br />
-2)SteamLit<br />
-3)MongoDB<br />
-
-# Tackling our Problem Statements:
-
-![Order of Detection](/github_ready/order_of_detection.PNG)
-
-![Detection](/github_ready/detection.PNG)
-
-![Obstruction Blur Number](/github_ready/obstruction_blur_number.PNG)
-
-![Cartoon](/github_ready/cartoonification.PNG)
-
-![Professional](/github_ready/professional.PNG)
-
-![Live Face](/github_ready/live_face.PNG)
-
-![thumbnail](/github_ready/small_regions.PNG)
