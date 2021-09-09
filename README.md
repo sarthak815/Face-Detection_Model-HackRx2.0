@@ -4,7 +4,7 @@
 
 # Introduction:
 
-Our team, Xorbians, hopes to achieve a scalable, deployable, and maintainable Face Detection and Validation product for HackRx. Keeping in mind the above three factors, we surveyed and enlisted state-of-the-art modules supported and backed by Open Source and well-maintained products such as Tensorflow, FastAPI, and OpenCV. Please refer to the [competition website](https://hackrx.in/) for refined details regarding the problem statement and check out our [acknowledgment](#Ackowledgement:) for further details on this repository.
+Our team, Xorbians, hopes to achieve a scalable, deployable, and maintainable Face Detection and Validation product for HackRx. Keeping in mind the above three factors, we surveyed and enlisted state-of-the-art modules supported and backed by Open Source and well-maintained products such as Tensorflow, FastAPI, and OpenCV. Please refer to the [competition website](https://hackrx.in/) for refined details regarding the problem statement and check out our [acknowledgment](#Ackowledgement) for further details on this repository.
 
 # Tackling our Problem Statements:
 
