@@ -47,4 +47,10 @@ OpenCV, another technology integrated into the framework, is an image processing
 
 Finally, our implementation of FastAPI, one of the fastest, best, and popular API frameworks, would also allow easy access and integration in the future.
 
-All three of these base frameworks are open-sourced, backed by a large supporting community, and popular! 
+All three of these base frameworks are open-sourced, backed by a large supporting community, and popular!
+
+<br>
+
+# Ackowledgement:
+
+This repo was created on a later date as a record of our performance during the HackRx2.0 hackathon. Which led us to simply upload our zipped winning submission. We would like to thank the organizing team and Bajaj Finserv for organizing such a wonderful event.
