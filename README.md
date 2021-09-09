@@ -49,8 +49,6 @@ Finally, our implementation of FastAPI, one of the fastest, best, and popular AP
 
 All three of these base frameworks are open-sourced, backed by a large supporting community, and popular!
 
-<br>
-
 # Ackowledgement:
 
-This repo was created on a later date as a record of our performance during the HackRx2.0 hackathon. Which led us to simply upload our zipped winning submission. We would like to thank the organizing team and Bajaj Finserv for organizing such a wonderful event.
+This repository was created on a later date as a record of our performance during the HackRx2.0 hackathon., which led us to simply upload our zipped winning submission. We would like to thank the organizing team and Bajaj Finserv for organizing such a wonderful event. The internal details of the project have been made open-source to allow others to augment/improve upon our code. We would be glad to hear feedback if any!
