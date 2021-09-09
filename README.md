@@ -52,3 +52,5 @@ All three of these base frameworks are open-sourced, backed by a large supportin
 # Ackowledgement:
 
 This repository was created on a later date as a record of our performance during the HackRx2.0 hackathon., which led us to simply upload our zipped winning submission. We would like to thank the organizing team and Bajaj Finserv for organizing such a wonderful event. The internal details of the project have been made open-source to allow others to augment/improve upon our code. We would be glad to hear feedback if any!
+
+If you wish to check out the repository at the time of the competition, please checkout the [Official-GitHub-Repository](https://github.com/HackRx2-0/ps8_xorbians) by HackRx. We will also continue to improve upon our API.
